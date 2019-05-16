@@ -90,6 +90,9 @@ CHANGE LOG:
 1.4.4
 * Fixed CPUT problem on OS V7R2.
 * Added check job temporary storage used. (Thanks, BIANCHI Xavier)
+
+1.4.5 
+*Fixed Status hardware
 --------------------------------------------------------------
 Last Modified  2017/04/28 by Shao-Pin, Cheng  , Taipei, Taiwan
 Mail & PayPal donate: cjt74392@ms10.hinet.net
